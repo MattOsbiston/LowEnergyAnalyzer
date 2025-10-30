@@ -1,0 +1,8 @@
+BEGIN_PROLOG
+
+analyzeEvents:
+{
+ module_type: "AnalyzeEvents"
+}
+
+END_PROLOG
