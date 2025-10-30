@@ -1,0 +1,15 @@
+BEGIN_PROLOG
+
+  analyzeEvents:
+  {
+   
+     module_type: "AnalyzeEvents"
+     MarleyLabel: "marley"
+     RecombinationFactor: "0.64"
+     HitLabel: "pandoraTrack"
+     ParticleLabel: "pandora"
+     TrackLabel: "pandoraTrack"
+     TruthLabel: "largeant"
+  }
+
+END_PROLOG
